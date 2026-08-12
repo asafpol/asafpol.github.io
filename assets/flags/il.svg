@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 18" role="img" aria-label="Flag of Israel">
+  <rect width="28" height="18" fill="#fff"/>
+  <path fill="#0038b8" d="M0 2h28v2H0zM0 14h28v2H0z"/>
+  <g fill="none" stroke="#0038b8" stroke-width="1.05" stroke-linejoin="round">
+    <path d="m14 4.8 3.25 5.6h-6.5z"/>
+    <path d="m14 13.2-3.25-5.6h6.5z"/>
+  </g>
+</svg>
